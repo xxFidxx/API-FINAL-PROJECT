@@ -1,15 +1,15 @@
 Score: 30/30
 
-Obiettivi
-• Applicazione pratica delle tecniche apprese nel modulo di algoritmi e strutture dati del corso di algoritmi e principi dell'informatica
+Objectives
+• Practical application of the techniques learned in the algorithms and data structures module of the Algorithms and Principles of Computer Science course
 
-• Implementazione di una soluzione ad un problema prestando attenzione ad aspetti concreti di efficienza del codice
+• Implementation of a solution to a problem with special attention to practical aspects of code efficiency
 
-Realizzazione
-• Linguaggio C (C11, VLA ammessi)
+Implementation Requirements
+• C Language (C11, VLAs allowed)
 
-• Nessuna libreria esterna al di là della libreria standard C
+• No external libraries beyond the C standard library
 
 • No multithreading
 
-• Dati in ingresso ricevuti via stdin, risultati da fornire via stdout
+• Input data received via stdin, results to be provided via stdout
